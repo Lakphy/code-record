@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 
 const leetcodecn = () => {
     const id = leetcodeUrl.split("/")[leetcodeUrl.split("/").findIndex(item => item === "leetcode.cn") + 2]
-    rl.question(`请输入题目名称：`, (name) => {
+    rl.question(`\n请输入题目名称：`, (name) => {
         const content = `\n- [${name}](${leetcodeUrl})\n\n\t[前往代码 ${id}.js](./${id}.js)\n`
         const opt = {
             flag: 'a',
@@ -25,7 +25,7 @@ const leetcodecn = () => {
                 console.error(err)
             }
         })
-        console.log(`成功创建新题目 【 ${name} 】\n\n请前往 ./${id}.js 输入代码`)
+        console.log(`\n成功创建新题目 【 ${name} 】\n\n请前往 ./${id}.js 输入代码\n`)
         rl.close();
     })
 }
