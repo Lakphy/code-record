@@ -15,3 +15,11 @@
 - [剑指 Offer 60. n 个骰子的点数](https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof/)
 
   [前往代码 nge-tou-zi-de-dian-shu-lcof.js](./nge-tou-zi-de-dian-shu-lcof.js)
+
+- [1991. 找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/)
+
+	[前往代码 find-the-middle-index-in-array.js](./find-the-middle-index-in-array.js)
+
+- [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
+
+	[前往代码 zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js](./zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js)
