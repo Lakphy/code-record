@@ -43,3 +43,7 @@
 - [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
   [前往代码 shun-shi-zhen-da-yin-ju-zhen-lcof.js](./shun-shi-zhen-da-yin-ju-zhen-lcof.js)
+
+- [剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+
+	[前往代码 shu-zu-zhong-de-ni-xu-dui-lcof.js](./shu-zu-zhong-de-ni-xu-dui-lcof.js)
