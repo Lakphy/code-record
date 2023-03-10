@@ -31,3 +31,11 @@
 - [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)
 
 	[前往代码 cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js](./cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
+
+- [面试题45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+
+	[前往代码 ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.js](./ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.js)
+
+- [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+
+	[前往代码 shun-shi-zhen-da-yin-ju-zhen-lcof.js](./shun-shi-zhen-da-yin-ju-zhen-lcof.js)
