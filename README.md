@@ -18,20 +18,28 @@
 
 - [1991. 找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/)
 
-	[前往代码 find-the-middle-index-in-array.js](./find-the-middle-index-in-array.js)
+  [前往代码 find-the-middle-index-in-array.js](./find-the-middle-index-in-array.js)
 
 - [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 
-	[前往代码 zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js](./zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js)
+  [前往代码 zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js](./zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.js)
 
 - [剑指 Offer 47. 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 
-	[前往代码 li-wu-de-zui-da-jie-zhi-lcof.js](./li-wu-de-zui-da-jie-zhi-lcof.js)
+  [前往代码 li-wu-de-zui-da-jie-zhi-lcof.js](./li-wu-de-zui-da-jie-zhi-lcof.js)
 
 - [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)
 
-	[前往代码 cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js](./cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
+  [前往代码 cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js](./cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
 
 - [剑指 Offer 11. 旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 
-	[前往代码 xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.js](./xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.js)
+  [前往代码 xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.js](./xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.js)
+
+- [面试题 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+
+  [前往代码 ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.js](./ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.js)
+
+- [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+
+  [前往代码 shun-shi-zhen-da-yin-ju-zhen-lcof.js](./shun-shi-zhen-da-yin-ju-zhen-lcof.js)
