@@ -59,3 +59,7 @@
 - [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
 
 	[前往代码 he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
+
+- [剑指 Offer 49. 丑数](https://leetcode.cn/problems/chou-shu-lcof/)
+
+	[前往代码 chou-shu-lcof.js](./chou-shu-lcof.js)
