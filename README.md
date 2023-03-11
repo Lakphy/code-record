@@ -47,3 +47,15 @@
 - [剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
 
 	[前往代码 shu-zu-zhong-de-ni-xu-dui-lcof.js](./shu-zu-zhong-de-ni-xu-dui-lcof.js)
+
+- [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
+
+	[前往代码 er-wei-shu-zu-zhong-de-cha-zhao-lcof.js](./er-wei-shu-zu-zhong-de-cha-zhao-lcof.js)
+
+- [剑指 Offer 28. 对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof)
+
+	[前往代码 dui-cheng-de-er-cha-shu-lcof.js](./dui-cheng-de-er-cha-shu-lcof.js)
+
+- [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
+
+	[前往代码 he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
