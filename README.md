@@ -63,3 +63,7 @@
 - [剑指 Offer 49. 丑数](https://leetcode.cn/problems/chou-shu-lcof/)
 
 	[前往代码 chou-shu-lcof.js](./chou-shu-lcof.js)
+
+- [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
+
+	[前往代码 zhan-de-ya-ru-dan-chu-xu-lie-lcof.js](./zhan-de-ya-ru-dan-chu-xu-lie-lcof.js)
