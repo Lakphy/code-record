@@ -79,3 +79,7 @@
 - [面试题13. 机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 
 	[前往代码 ji-qi-ren-de-yun-dong-fan-wei-lcof.js](./ji-qi-ren-de-yun-dong-fan-wei-lcof.js)
+
+- [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
+
+	[前往代码 shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.js](./shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.js)
