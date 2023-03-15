@@ -67,3 +67,15 @@
 - [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
 	[前往代码 zhan-de-ya-ru-dan-chu-xu-lie-lcof.js](./zhan-de-ya-ru-dan-chu-xu-lie-lcof.js)
+
+- [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)
+
+	[前往代码 shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.js](./shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.js)
+
+- [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
+
+	[前往代码 yong-liang-ge-zhan-shi-xian-dui-lie-lcof.js](./yong-liang-ge-zhan-shi-xian-dui-lie-lcof.js)
+
+- [面试题13. 机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+
+	[前往代码 ji-qi-ren-de-yun-dong-fan-wei-lcof.js](./ji-qi-ren-de-yun-dong-fan-wei-lcof.js)
