@@ -83,3 +83,7 @@
 - [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 
 	[前往代码 shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.js](./shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.js)
+
+- [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+
+	[前往代码 he-wei-sde-liang-ge-shu-zi-lcof.js](./he-wei-sde-liang-ge-shu-zi-lcof.js)
