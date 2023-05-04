@@ -95,3 +95,7 @@
 - [165. 比较版本号](https://leetcode.cn/problems/compare-version-numbers/)
 
 	[前往代码 compare-version-numbers.js](./compare-version-numbers.js)
+
+- [743. 网络延迟时间](https://leetcode.cn/problems/network-delay-time)
+
+	[前往代码 network-delay-time.js](./network-delay-time.js)
