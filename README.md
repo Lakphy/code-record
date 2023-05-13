@@ -103,3 +103,7 @@
 - [剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof)
 
 	[前往代码 zui-xiao-de-kge-shu-lcof.js](./zui-xiao-de-kge-shu-lcof.js)
+
+- [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)
+
+	[前往代码 daily-temperatures.js](./daily-temperatures.js)
