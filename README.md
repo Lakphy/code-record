@@ -107,3 +107,27 @@
 - [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)
 
 	[前往代码 daily-temperatures.js](./daily-temperatures.js)
+
+- [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+
+	[前往代码 shu-zu-zhong-zhong-fu-de-shu-zi-lcof.js](./shu-zu-zhong-zhong-fu-de-shu-zi-lcof.js)
+
+- [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof)
+
+	[前往代码 ti-huan-kong-ge-lcof.js](./ti-huan-kong-ge-lcof.js)
+
+- [剑指 Offer 06. 从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
+
+	[前往代码 cong-wei-dao-tou-da-yin-lian-biao-lcof.js](./cong-wei-dao-tou-da-yin-lian-biao-lcof.js)
+
+- [剑指 Offer 10- I. 斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof)
+
+	[前往代码 fei-bo-na-qi-shu-lie-lcof.js](./fei-bo-na-qi-shu-lie-lcof.js)
+
+- [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)
+
+	[前往代码 qing-wa-tiao-tai-jie-wen-ti-lcof.js](./qing-wa-tiao-tai-jie-wen-ti-lcof.js)
+
+- [剑指 Offer 07. 重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof)
+
+	[前往代码 zhong-jian-er-cha-shu-lcof.js](./zhong-jian-er-cha-shu-lcof.js)
