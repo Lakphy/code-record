@@ -139,3 +139,19 @@
 - [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
 
 	[前往代码 /src/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js](./src/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js)
+
+- [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
+
+	[前往代码 /src/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js](./src/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)
+
+- [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/)
+
+	[前往代码 /src/er-cha-shu-de-shen-du-lcof.js](./src/er-cha-shu-de-shen-du-lcof.js)
+
+- [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/)
+
+	[前往代码 /src/ping-heng-er-cha-shu-lcof.js](./src/ping-heng-er-cha-shu-lcof.js)
+
+- [912. 排序数组](https://leetcode.cn/problems/sort-an-array/)
+
+	[前往代码 /src/sort-an-array.js](./src/sort-an-array.js)
