@@ -155,3 +155,11 @@
 - [912. 排序数组](https://leetcode.cn/problems/sort-an-array/)
 
 	[前往代码 /src/sort-an-array.js](./src/sort-an-array.js)
+
+- [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
+
+	[前往代码 /src/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.js](./src/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.js)
+
+- [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+
+	[前往代码 /src/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.js](./src/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.js)

@@ -93,7 +93,7 @@ const selectionSort = (arr) => {
 const mergeSort = (arr) => {};
 
 var sortArray = function (nums) {
-  //   return quickSort(nums);
+  return quickSort(nums);
   //   return bubbleSort(nums);
   //   return insertSort(nums);
   //   return selectionSort(nums);
