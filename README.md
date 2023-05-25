@@ -163,3 +163,19 @@
 - [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
 
 	[前往代码 /src/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.js](./src/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.js)
+
+- [剑指 Offer 26. 树的子结构](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof/)
+
+	[前往代码 /src/shu-de-zi-jie-gou-lcof.js](./src/shu-de-zi-jie-gou-lcof.js)
+
+- [剑指 Offer 06. 从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+
+	[前往代码 /src/cong-wei-dao-tou-da-yin-lian-biao-lcof.js](./src/cong-wei-dao-tou-da-yin-lian-biao-lcof.js)
+
+- [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)
+
+	[前往代码 /src/fan-zhuan-lian-biao-lcof.js](./src/fan-zhuan-lian-biao-lcof.js)
+
+- [剑指 Offer II 048. 序列化与反序列化二叉树](https://leetcode.cn/problems/h54YBf/)
+
+	[前往代码 /src/h54YBf.js](./src/h54YBf.js)
