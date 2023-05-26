@@ -179,3 +179,7 @@
 - [剑指 Offer II 048. 序列化与反序列化二叉树](https://leetcode.cn/problems/h54YBf/)
 
 	[前往代码 /src/h54YBf.js](./src/h54YBf.js)
+
+- [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof)
+
+	[前往代码 /src/fu-za-lian-biao-de-fu-zhi-lcof.js](./src/fu-za-lian-biao-de-fu-zhi-lcof.js)
