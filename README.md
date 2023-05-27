@@ -179,3 +179,15 @@
 - [剑指 Offer II 048. 序列化与反序列化二叉树](https://leetcode.cn/problems/h54YBf/)
 
 	[前往代码 /src/h54YBf.js](./src/h54YBf.js)
+
+- [剑指 Offer 25. 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+
+	[前往代码 /src/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.js](./src/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.js)
+
+- [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+
+	[前往代码 /src/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.js](./src/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.js)
+
+- [剑指 Offer II 022. 链表中环的入口节点](https://leetcode.cn/problems/c32eOV/)
+
+	[前往代码 /src/c32eOV.js](./src/c32eOV.js)
