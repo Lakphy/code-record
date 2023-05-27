@@ -207,3 +207,11 @@
 - [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/)
 
 	[前往代码 /src/delete-node-in-a-linked-list.js](./src/delete-node-in-a-linked-list.js)
+
+- [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+
+	[前往代码 /src/shan-chu-lian-biao-de-jie-dian-lcof.js](./src/shan-chu-lian-biao-de-jie-dian-lcof.js)
+
+- [64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/)
+
+	[前往代码 /src/minimum-path-sum.js](./src/minimum-path-sum.js)
