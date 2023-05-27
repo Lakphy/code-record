@@ -195,3 +195,7 @@
 - [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof)
 
   [前往代码 /src/fu-za-lian-biao-de-fu-zhi-lcof.js](./src/fu-za-lian-biao-de-fu-zhi-lcof.js)
+
+- [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+
+	[前往代码 /src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js](./src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js)
