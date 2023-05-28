@@ -243,3 +243,7 @@
 - [337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/)
 
 	[前往代码 /src/house-robber-iii.js](./src/house-robber-iii.js)
+
+- [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
+
+	[前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
