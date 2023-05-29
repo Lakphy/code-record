@@ -243,3 +243,7 @@
 - [337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/)
 
 	[前往代码 /src/house-robber-iii.js](./src/house-robber-iii.js)
+
+- [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+
+	[前往代码 /src/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.js](./src/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.js)
