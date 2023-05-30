@@ -251,3 +251,15 @@
 - [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
 
   [前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
+
+- [剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+
+	[前往代码 /src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js](./src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js)
+
+- [1. 两数之和](https://leetcode.cn/problems/two-sum/)
+
+	[前往代码 /src/two-sum.js](./src/two-sum.js)
+
+- [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
+
+	[前往代码 /src/bu-ke-pai-zhong-de-shun-zi-lcof.js](./src/bu-ke-pai-zhong-de-shun-zi-lcof.js)
