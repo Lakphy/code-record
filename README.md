@@ -247,3 +247,7 @@
 - [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
 
 	[前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
+
+- [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+
+	[前往代码 /src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js](./src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js)
