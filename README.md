@@ -198,56 +198,72 @@
 
 - [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 
-	[前往代码 /src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js](./src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js)
+  [前往代码 /src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js](./src/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.js)
 
 - [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
-	[前往代码 /src/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js](./src/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js)
+  [前往代码 /src/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js](./src/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js)
 
 - [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/)
 
-	[前往代码 /src/delete-node-in-a-linked-list.js](./src/delete-node-in-a-linked-list.js)
+  [前往代码 /src/delete-node-in-a-linked-list.js](./src/delete-node-in-a-linked-list.js)
 
 - [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 
-	[前往代码 /src/shan-chu-lian-biao-de-jie-dian-lcof.js](./src/shan-chu-lian-biao-de-jie-dian-lcof.js)
+  [前往代码 /src/shan-chu-lian-biao-de-jie-dian-lcof.js](./src/shan-chu-lian-biao-de-jie-dian-lcof.js)
 
 - [64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/)
 
-	[前往代码 /src/minimum-path-sum.js](./src/minimum-path-sum.js)
+  [前往代码 /src/minimum-path-sum.js](./src/minimum-path-sum.js)
 
 - [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
 
-	[前往代码 /src/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.js](./src/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.js)
+  [前往代码 /src/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.js](./src/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.js)
 
 - [62. 不同路径](https://leetcode.cn/problems/unique-paths)
 
-	[前往代码 /src/unique-paths.js](./src/unique-paths.js)
+  [前往代码 /src/unique-paths.js](./src/unique-paths.js)
 
 - [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/)
 
-	[前往代码 /src/unique-paths-ii.js](./src/unique-paths-ii.js)
+  [前往代码 /src/unique-paths-ii.js](./src/unique-paths-ii.js)
 
 - [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
 
-	[前往代码 /src/best-time-to-buy-and-sell-stock.js](./src/best-time-to-buy-and-sell-stock.js)
+  [前往代码 /src/best-time-to-buy-and-sell-stock.js](./src/best-time-to-buy-and-sell-stock.js)
 
 - [198. 打家劫舍](https://leetcode.cn/problems/house-robber/)
 
-	[前往代码 /src/house-robber.js](./src/house-robber.js)
+  [前往代码 /src/house-robber.js](./src/house-robber.js)
 
 - [213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)
 
-	[前往代码 /src/house-robber-ii.js](./src/house-robber-ii.js)
+  [前往代码 /src/house-robber-ii.js](./src/house-robber-ii.js)
 
 - [337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/)
 
-	[前往代码 /src/house-robber-iii.js](./src/house-robber-iii.js)
+  [前往代码 /src/house-robber-iii.js](./src/house-robber-iii.js)
+
+- [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+
+  [前往代码 /src/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.js](./src/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.js)
 
 - [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
 
-	[前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
+  [前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
 
 - [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 
-	[前往代码 /src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js](./src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js)
+  [前往代码 /src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js](./src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js)
+
+- [剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+
+  [前往代码 /src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js](./src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js)
+
+- [1. 两数之和](https://leetcode.cn/problems/two-sum/)
+
+  [前往代码 /src/two-sum.js](./src/two-sum.js)
+
+- [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
+
+  [前往代码 /src/bu-ke-pai-zhong-de-shun-zi-lcof.js](./src/bu-ke-pai-zhong-de-shun-zi-lcof.js)
