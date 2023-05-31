@@ -263,3 +263,15 @@
 - [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 
 	[前往代码 /src/bu-ke-pai-zhong-de-shun-zi-lcof.js](./src/bu-ke-pai-zhong-de-shun-zi-lcof.js)
+
+- [剑指 Offer 14- I. 剪绳子](https://leetcode.cn/problems/jian-sheng-zi-lcof/)
+
+	[前往代码 /src/jian-sheng-zi-lcof.js](./src/jian-sheng-zi-lcof.js)
+
+- [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
+
+	[前往代码 /src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js](./src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js)
+
+- [剑指 Offer 30. 包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)
+
+	[前往代码 /src/bao-han-minhan-shu-de-zhan-lcof.js](./src/bao-han-minhan-shu-de-zhan-lcof.js)
