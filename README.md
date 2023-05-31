@@ -252,26 +252,30 @@
 
   [前往代码 /src/remove-duplicates-from-sorted-list.js](./src/remove-duplicates-from-sorted-list.js)
 
+- [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+
+  [前往代码 /src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js](./src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js)
+
 - [剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 
-	[前往代码 /src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js](./src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js)
+  [前往代码 /src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js](./src/lian-xu-zi-shu-zu-de-zui-da-he-lcof.js)
 
 - [1. 两数之和](https://leetcode.cn/problems/two-sum/)
 
-	[前往代码 /src/two-sum.js](./src/two-sum.js)
+  [前往代码 /src/two-sum.js](./src/two-sum.js)
 
 - [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 
-	[前往代码 /src/bu-ke-pai-zhong-de-shun-zi-lcof.js](./src/bu-ke-pai-zhong-de-shun-zi-lcof.js)
+  [前往代码 /src/bu-ke-pai-zhong-de-shun-zi-lcof.js](./src/bu-ke-pai-zhong-de-shun-zi-lcof.js)
 
 - [剑指 Offer 14- I. 剪绳子](https://leetcode.cn/problems/jian-sheng-zi-lcof/)
 
-	[前往代码 /src/jian-sheng-zi-lcof.js](./src/jian-sheng-zi-lcof.js)
+  [前往代码 /src/jian-sheng-zi-lcof.js](./src/jian-sheng-zi-lcof.js)
 
-- [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
+- [剑指 Offer 17. 打印从 1 到最大的 n 位数](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
 
-	[前往代码 /src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js](./src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js)
+  [前往代码 /src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js](./src/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.js)
 
-- [剑指 Offer 30. 包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)
+- [剑指 Offer 30. 包含 min 函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)
 
-	[前往代码 /src/bao-han-minhan-shu-de-zhan-lcof.js](./src/bao-han-minhan-shu-de-zhan-lcof.js)
+  [前往代码 /src/bao-han-minhan-shu-de-zhan-lcof.js](./src/bao-han-minhan-shu-de-zhan-lcof.js)

@@ -4,9 +4,7 @@
  */
 var minNumber = function (nums) {
   return nums
-    .map((item) => {
-      return item.toString();
-    })
+    .map((item) => item.toString())
     .sort((a, b) => a + b - (b + a))
     .join("");
 };
