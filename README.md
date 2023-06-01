@@ -279,3 +279,31 @@
 - [剑指 Offer 30. 包含 min 函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)
 
   [前往代码 /src/bao-han-minhan-shu-de-zhan-lcof.js](./src/bao-han-minhan-shu-de-zhan-lcof.js)
+
+- [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+
+	[前往代码 /src/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.js](./src/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.js)
+
+- [剑指 Offer 46. 把数字翻译成字符串](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
+
+	[前往代码 /src/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.js](./src/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.js)
+
+- [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
+
+	[前往代码 /src/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.js](./src/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.js)
+
+- [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+
+	[前往代码 /src/zuo-xuan-zhuan-zi-fu-chuan-lcof.js](./src/zuo-xuan-zhuan-zi-fu-chuan-lcof.js)
+
+- [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)
+
+	[前往代码 /src/que-shi-de-shu-zi-lcof.js](./src/que-shi-de-shu-zi-lcof.js)
+
+- [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
+
+	[前往代码 /src/fan-zhuan-dan-ci-shun-xu-lcof.js](./src/fan-zhuan-dan-ci-shun-xu-lcof.js)
+
+- [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)
+
+	[前往代码 /src/qiu-12n-lcof.js](./src/qiu-12n-lcof.js)
