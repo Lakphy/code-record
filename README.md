@@ -307,3 +307,15 @@
 - [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)
 
 	[前往代码 /src/qiu-12n-lcof.js](./src/qiu-12n-lcof.js)
+
+- [15. 三数之和](https://leetcode.cn/problems/3sum)
+
+	[前往代码 /src/3sum.js](./src/3sum.js)
+
+- [18. 四数之和](https://leetcode.cn/problems/4sum)
+
+	[前往代码 /src/4sum.js](./src/4sum.js)
+
+- [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode.cn/problems/kLl5u1/)
+
+	[前往代码 /src/kLl5u1.js](./src/kLl5u1.js)

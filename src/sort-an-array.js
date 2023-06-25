@@ -51,7 +51,7 @@ const bubbleSort = (arr) => {
  * 时间复杂度：O(n2)
  * 空间复杂度：O(1)
  */
-const insertSort = (arr) => {
+const InsertionSort = (arr) => {
   for (let i = 1; i < arr.length; i++) {
     const cur = arr[i];
     arr.splice(i, 1);
@@ -90,7 +90,23 @@ const selectionSort = (arr) => {
   return ans;
 };
 
-const mergeSort = (arr) => {};
+/** 归并排序
+ *
+ * 时间复杂度：O(nlogn)
+ * 空间复杂度：O(n)
+ */
+const mergeSort = (arr) => {
+  if (arr.length < 2) return arr;
+  const mid = arr.length >> 1;
+  const left = mergeSort(arr.slice(0, mid));
+  const right = mergeSort(arr.slice(mid));
+  const ans = [];
+  while (left.length && right.length) {
+    if (left[0] < right[0]) ans.push(left.shift());
+    else ans.push(right.shift());
+  }
+  return [...ans, ...left, ...right];
+};
 
 var sortArray = function (nums) {
   return quickSort(nums);
