@@ -327,3 +327,15 @@
 - [剑指 Offer 20. 表示数值的字符串](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
 
 	[前往代码 /src/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.js](./src/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.js)
+
+- [剑指 Offer 38. 字符串的排列](https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/)
+
+	[前往代码 /src/zi-fu-chuan-de-pai-lie-lcof.js](./src/zi-fu-chuan-de-pai-lie-lcof.js)
+
+- [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
+
+	[前往代码 /src/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js](./src/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js)
+
+- [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)
+
+	[前往代码 /src/gu-piao-de-zui-da-li-run-lcof.js](./src/gu-piao-de-zui-da-li-run-lcof.js)
