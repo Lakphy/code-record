@@ -319,3 +319,11 @@
 - [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode.cn/problems/kLl5u1/)
 
 	[前往代码 /src/kLl5u1.js](./src/kLl5u1.js)
+
+- [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+
+	[前往代码 /src/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.js](./src/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.js)
+
+- [剑指 Offer 20. 表示数值的字符串](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
+
+	[前往代码 /src/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.js](./src/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.js)
