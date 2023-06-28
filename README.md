@@ -347,3 +347,7 @@
 - [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode.cn/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)
 
 	[前往代码 /src/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.js](./src/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.js)
+
+- [剑指 Offer 59 - II. 队列的最大值](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof/)
+
+	[前往代码 /src/dui-lie-de-zui-da-zhi-lcof.js](./src/dui-lie-de-zui-da-zhi-lcof.js)
