@@ -339,3 +339,11 @@
 - [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)
 
 	[前往代码 /src/gu-piao-de-zui-da-li-run-lcof.js](./src/gu-piao-de-zui-da-li-run-lcof.js)
+
+- [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
+
+	[前往代码 /src/kth-largest-element-in-an-array.js](./src/kth-largest-element-in-an-array.js)
+
+- [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode.cn/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)
+
+	[前往代码 /src/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.js](./src/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.js)

@@ -14,7 +14,7 @@ const quickSort = (arr) => {
   if (arr.length < 3) return arr[0] < arr[1] ? arr : [arr[1], arr[0]];
   const index = Date.now() % arr.length;
   const val = arr[index];
-  let valCount = 0;
+  let valCount = 0; // val的数量
   const left = [],
     right = [];
   for (let i = 0; i < arr.length; i++) {
