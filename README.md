@@ -355,3 +355,15 @@
 - [剑指 Offer 41. 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
 
 	[前往代码 /src/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.js](./src/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.js)
+
+- [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://leetcode.cn/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)
+
+	[前往代码 /src/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.js](./src/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.js)
+
+- [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode.cn/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+
+	[前往代码 /src/hua-dong-chuang-kou-de-zui-da-zhi-lcof.js](./src/hua-dong-chuang-kou-de-zui-da-zhi-lcof.js)
+
+- [剑指 Offer II 083. 没有重复元素集合的全排列](https://leetcode.cn/problems/VvJkup/)
+
+	[前往代码 /src/VvJkup.js](./src/VvJkup.js)
