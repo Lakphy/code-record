@@ -367,3 +367,11 @@
 - [剑指 Offer II 083. 没有重复元素集合的全排列](https://leetcode.cn/problems/VvJkup/)
 
 	[前往代码 /src/VvJkup.js](./src/VvJkup.js)
+
+- [剑指 Offer II 054. 所有大于等于节点的值之和](https://leetcode.cn/problems/w6cpku)
+
+	[前往代码 /src/w6cpku.js](./src/w6cpku.js)
+
+- [剑指 Offer II 079. 所有子集](https://leetcode.cn/problems/TVdhkn/)
+
+	[前往代码 /src/TVdhkn.js](./src/TVdhkn.js)
