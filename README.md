@@ -383,3 +383,7 @@
 - [剑指 Offer II 080. 含有 k 个元素的组合](https://leetcode.cn/problems/uUsW3B/)
 
 	[前往代码 /src/uUsW3B.js](./src/uUsW3B.js)
+
+- [剑指 Offer II 042. 最近请求次数](https://leetcode.cn/problems/H8086Q/)
+
+	[前往代码 /src/H8086Q.js](./src/H8086Q.js)
