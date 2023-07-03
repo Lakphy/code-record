@@ -375,3 +375,11 @@
 - [剑指 Offer II 079. 所有子集](https://leetcode.cn/problems/TVdhkn/)
 
 	[前往代码 /src/TVdhkn.js](./src/TVdhkn.js)
+
+- [剑指 Offer II 085. 生成匹配的括号](https://leetcode.cn/problems/IDBivT/)
+
+	[前往代码 /src/IDBivT.js](./src/IDBivT.js)
+
+- [剑指 Offer II 080. 含有 k 个元素的组合](https://leetcode.cn/problems/uUsW3B/)
+
+	[前往代码 /src/uUsW3B.js](./src/uUsW3B.js)
