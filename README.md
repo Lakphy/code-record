@@ -387,3 +387,15 @@
 - [剑指 Offer II 042. 最近请求次数](https://leetcode.cn/problems/H8086Q/)
 
 	[前往代码 /src/H8086Q.js](./src/H8086Q.js)
+
+- [剑指 Offer II 110. 所有路径](https://leetcode.cn/problems/bP4bmD/)
+
+	[前往代码 /src/bP4bmD.js](./src/bP4bmD.js)
+
+- [剑指 Offer II 081. 允许重复选择元素的组合](https://leetcode.cn/problems/Ygoe9J/)
+
+	[前往代码 /src/Ygoe9J.js](./src/Ygoe9J.js)
+
+- [剑指 Offer II 045. 二叉树最底层最左边的值](https://leetcode.cn/problems/LwUNpT/)
+
+	[前往代码 /src/LwUNpT.js](./src/LwUNpT.js)
