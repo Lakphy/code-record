@@ -399,3 +399,15 @@
 - [剑指 Offer II 045. 二叉树最底层最左边的值](https://leetcode.cn/problems/LwUNpT/)
 
 	[前往代码 /src/LwUNpT.js](./src/LwUNpT.js)
+
+- [剑指 Offer II 003. 前 n 个数字二进制中 1 的个数](https://leetcode.cn/problems/w3tCBm/)
+
+	[前往代码 /src/w3tCBm.js](./src/w3tCBm.js)
+
+- [剑指 Offer II 041. 滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/)
+
+	[前往代码 /src/qIsx9U.js](./src/qIsx9U.js)
+
+- [剑指 Offer II 091. 粉刷房子](https://leetcode.cn/problems/JEj789)
+
+	[前往代码 /src/JEj789.js](./src/JEj789.js)
