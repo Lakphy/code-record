@@ -423,3 +423,15 @@
 - [剑指 Offer II 086. 分割回文子字符串](https://leetcode.cn/problems/M99OJA/)
 
 	[前往代码 /src/M99OJA.js](./src/M99OJA.js)
+
+- [剑指 Offer II 024. 反转链表](https://leetcode.cn/problems/UHnkqh/)
+
+	[前往代码 /src/UHnkqh.js](./src/UHnkqh.js)
+
+- [剑指 Offer II 033. 变位词组](https://leetcode.cn/problems/sfvd7V/)
+
+	[前往代码 /src/sfvd7V.js](./src/sfvd7V.js)
+
+- [剑指 Offer II 100. 三角形中最小路径之和](https://leetcode.cn/problems/IlPe0q/)
+
+	[前往代码 /src/IlPe0q.js](./src/IlPe0q.js)
