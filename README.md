@@ -447,3 +447,15 @@
 - [剑指 Offer II 099. 最小路径之和](https://leetcode.cn/problems/0i0mDW/)
 
   [前往代码 /src/0i0mDW.js](./src/0i0mDW.js)
+
+- [剑指 Offer II 056. 二叉搜索树中两个节点之和](https://leetcode.cn/problems/opLdQZ/)
+
+	[前往代码 /src/opLdQZ.js](./src/opLdQZ.js)
+
+- [剑指 Offer II 088. 爬楼梯的最少成本](https://leetcode.cn/problems/GzCJIP/)
+
+	[前往代码 /src/GzCJIP.js](./src/GzCJIP.js)
+
+- [剑指 Offer II 020. 回文子字符串的个数](https://leetcode.cn/problems/a7VOhD/)
+
+	[前往代码 /src/a7VOhD.js](./src/a7VOhD.js)
