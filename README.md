@@ -459,3 +459,15 @@
 - [剑指 Offer II 020. 回文子字符串的个数](https://leetcode.cn/problems/a7VOhD/)
 
 	[前往代码 /src/a7VOhD.js](./src/a7VOhD.js)
+
+- [剑指 Offer II 005. 单词长度的最大乘积](https://leetcode.cn/problems/aseY1I/)
+
+	[前往代码 /src/aseY1I.js](./src/aseY1I.js)
+
+- [剑指 Offer II 063. 替换单词](https://leetcode.cn/problems/UhWRSj/)
+
+	[前往代码 /src/UhWRSj.js](./src/UhWRSj.js)
+
+- [剑指 Offer II 004. 只出现一次的数字 ](https://leetcode.cn/problems/WGki4K/)
+
+	[前往代码 /src/WGki4K.js](./src/WGki4K.js)
