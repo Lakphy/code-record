@@ -471,3 +471,15 @@
 - [剑指 Offer II 004. 只出现一次的数字 ](https://leetcode.cn/problems/WGki4K/)
 
 	[前往代码 /src/WGki4K.js](./src/WGki4K.js)
+
+- [剑指 Offer II 069. 山峰数组的顶部](https://leetcode.cn/problems/B1IidL/)
+
+	[前往代码 /src/B1IidL.js](./src/B1IidL.js)
+
+- [剑指 Offer II 046. 二叉树的右侧视图](https://leetcode.cn/problems/WNC0Lk/)
+
+	[前往代码 /src/WNC0Lk.js](./src/WNC0Lk.js)
+
+- [剑指 Offer II 075. 数组相对排序](https://leetcode.cn/problems/0H97ZC/)
+
+	[前往代码 /src/0H97ZC.js](./src/0H97ZC.js)
