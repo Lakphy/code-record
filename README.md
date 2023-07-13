@@ -491,3 +491,7 @@
 - [剑指 Offer II 105. 岛屿的最大面积](https://leetcode.cn/problems/ZL6zAn/)
 
 	[前往代码 /src/ZL6zAn.js](./src/ZL6zAn.js)
+
+- [剑指 Offer II 118. 多余的边](https://leetcode.cn/problems/7LpjUW/)
+
+	[前往代码 /src/7LpjUW.js](./src/7LpjUW.js)
