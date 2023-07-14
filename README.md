@@ -495,3 +495,15 @@
 - [剑指 Offer II 118. 多余的边](https://leetcode.cn/problems/7LpjUW/)
 
 	[前往代码 /src/7LpjUW.js](./src/7LpjUW.js)
+
+- [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)
+
+	[前往代码 /src/middle-of-the-linked-list.js](./src/middle-of-the-linked-list.js)
+
+- [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+
+	[前往代码 /src/reverse-linked-list.js](./src/reverse-linked-list.js)
+
+- [剑指 Offer II 026. 重排链表](https://leetcode.cn/problems/LGjMqU/)
+
+	[前往代码 /src/LGjMqU.js](./src/LGjMqU.js)
