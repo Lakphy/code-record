@@ -507,3 +507,15 @@
 - [剑指 Offer II 026. 重排链表](https://leetcode.cn/problems/LGjMqU/)
 
 	[前往代码 /src/LGjMqU.js](./src/LGjMqU.js)
+
+- [剑指 Offer II 084. 含有重复元素集合的全排列 ](https://leetcode.cn/problems/7p8L0Z/)
+
+	[前往代码 /src/7p8L0Z.js](./src/7p8L0Z.js)
+
+- [剑指 Offer II 012. 左右两边子数组的和相等](https://leetcode.cn/problems/tvdfij/)
+
+	[前往代码 /src/tvdfij.js](./src/tvdfij.js)
+
+- [剑指 Offer II 116. 省份数量](https://leetcode.cn/problems/bLyHh0)
+
+	[前往代码 /src/bLyHh0.js](./src/bLyHh0.js)
