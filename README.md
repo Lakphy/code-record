@@ -519,3 +519,15 @@
 - [剑指 Offer II 116. 省份数量](https://leetcode.cn/problems/bLyHh0)
 
 	[前往代码 /src/bLyHh0.js](./src/bLyHh0.js)
+
+- [剑指 Offer II 002. 二进制加法](https://leetcode.cn/problems/JFETK5)
+
+	[前往代码 /src/JFETK5.js](./src/JFETK5.js)
+
+- [剑指 Offer II 018. 有效的回文](https://leetcode.cn/problems/XltzEq/)
+
+	[前往代码 /src/XltzEq.js](./src/XltzEq.js)
+
+- [剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa)
+
+	[前往代码 /src/aMhZSa.js](./src/aMhZSa.js)
