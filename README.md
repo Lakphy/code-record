@@ -531,3 +531,15 @@
 - [剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa)
 
 	[前往代码 /src/aMhZSa.js](./src/aMhZSa.js)
+
+- [剑指 Offer II 035. 最小时间差](https://leetcode.cn/problems/569nqc/)
+
+	[前往代码 /src/569nqc.js](./src/569nqc.js)
+
+- [剑指 Offer II 095. 最长公共子序列](https://leetcode.cn/problems/qJnOS7)
+
+	[前往代码 /src/qJnOS7.js](./src/qJnOS7.js)
+
+- [剑指 Offer II 032. 有效的变位词](https://leetcode.cn/problems/dKk3P7/)
+
+	[前往代码 /src/dKk3P7.js](./src/dKk3P7.js)
