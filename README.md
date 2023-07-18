@@ -543,3 +543,15 @@
 - [剑指 Offer II 032. 有效的变位词](https://leetcode.cn/problems/dKk3P7/)
 
 	[前往代码 /src/dKk3P7.js](./src/dKk3P7.js)
+
+- [78. 子集](https://leetcode.cn/problems/subsets/)
+
+	[前往代码 /src/subsets.js](./src/subsets.js)
+
+- [344. 反转字符串](https://leetcode.cn/problems/reverse-string/)
+
+	[前往代码 /src/reverse-string.js](./src/reverse-string.js)
+
+- [46. 全排列](https://leetcode.cn/problems/permutations/)
+
+	[前往代码 /src/permutations.js](./src/permutations.js)
