@@ -555,3 +555,15 @@
 - [46. 全排列](https://leetcode.cn/problems/permutations/)
 
 	[前往代码 /src/permutations.js](./src/permutations.js)
+
+- [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+	[前往代码 /src/maximum-depth-of-binary-tree.js](./src/maximum-depth-of-binary-tree.js)
+
+- [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)
+
+	[前往代码 /src/kth-smallest-element-in-a-bst.js](./src/kth-smallest-element-in-a-bst.js)
+
+- [238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)
+
+	[前往代码 /src/product-of-array-except-self.js](./src/product-of-array-except-self.js)
