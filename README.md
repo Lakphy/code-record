@@ -567,3 +567,15 @@
 - [238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)
 
 	[前往代码 /src/product-of-array-except-self.js](./src/product-of-array-except-self.js)
+
+- [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)
+
+	[前往代码 /src/reverse-words-in-a-string-iii.js](./src/reverse-words-in-a-string-iii.js)
+
+- [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/)
+
+	[前往代码 /src/single-number.js](./src/single-number.js)
+
+- [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
+
+	[前往代码 /src/climbing-stairs.js](./src/climbing-stairs.js)
