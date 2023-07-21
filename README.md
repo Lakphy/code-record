@@ -579,3 +579,15 @@
 - [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
 
 	[前往代码 /src/climbing-stairs.js](./src/climbing-stairs.js)
+
+- [33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/)
+
+	[前往代码 /src/search-in-rotated-sorted-array.js](./src/search-in-rotated-sorted-array.js)
+
+- [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses)
+
+	[前往代码 /src/valid-parentheses.js](./src/valid-parentheses.js)
+
+- [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
+
+	[前往代码 /src/intersection-of-two-linked-lists.js](./src/intersection-of-two-linked-lists.js)
