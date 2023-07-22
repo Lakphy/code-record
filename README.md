@@ -591,3 +591,15 @@
 - [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
 
 	[前往代码 /src/intersection-of-two-linked-lists.js](./src/intersection-of-two-linked-lists.js)
+
+- [9. 回文数](https://leetcode.cn/problems/palindrome-number/)
+
+	[前往代码 /src/palindrome-number.js](./src/palindrome-number.js)
+
+- [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)
+
+	[前往代码 /src/longest-common-prefix.js](./src/longest-common-prefix.js)
+
+- [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
+
+	[前往代码 /src/merge-two-sorted-lists.js](./src/merge-two-sorted-lists.js)
