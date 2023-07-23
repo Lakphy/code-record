@@ -591,3 +591,15 @@
 - [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
 
 	[前往代码 /src/intersection-of-two-linked-lists.js](./src/intersection-of-two-linked-lists.js)
+
+- [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
+
+	[前往代码 /src/remove-duplicates-from-sorted-array.js](./src/remove-duplicates-from-sorted-array.js)
+
+- [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)
+
+	[前往代码 /src/longest-palindromic-substring.js](./src/longest-palindromic-substring.js)
+
+- [7. 整数反转](https://leetcode.cn/problems/reverse-integer/)
+
+	[前往代码 /src/reverse-integer.js](./src/reverse-integer.js)
