@@ -615,3 +615,15 @@
 - [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
   [前往代码 /src/merge-two-sorted-lists.js](./src/merge-two-sorted-lists.js)
+
+- [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/)
+
+	[前往代码 /src/maximum-subarray.js](./src/maximum-subarray.js)
+
+- [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
+
+	[前往代码 /src/container-with-most-water.js](./src/container-with-most-water.js)
+
+- [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
+
+	[前往代码 /src/linked-list-cycle.js](./src/linked-list-cycle.js)
