@@ -627,3 +627,15 @@
 - [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
 
 	[前往代码 /src/linked-list-cycle.js](./src/linked-list-cycle.js)
+
+- [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)
+
+	[前往代码 /src/merge-sorted-array.js](./src/merge-sorted-array.js)
+
+- [292. Nim 游戏](https://leetcode.cn/problems/nim-game/)
+
+	[前往代码 /src/nim-game.js](./src/nim-game.js)
+
+- [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
+
+	[前往代码 /src/3sum-closest.js](./src/3sum-closest.js)
