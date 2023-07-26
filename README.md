@@ -639,3 +639,15 @@
 - [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
 
 	[前往代码 /src/3sum-closest.js](./src/3sum-closest.js)
+
+- [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)
+
+	[前往代码 /src/best-time-to-buy-and-sell-stock-ii.js](./src/best-time-to-buy-and-sell-stock-ii.js)
+
+- [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
+
+	[前往代码 /src/linked-list-cycle-ii.js](./src/linked-list-cycle-ii.js)
+
+- [148. 排序链表](https://leetcode.cn/problems/sort-list/)
+
+	[前往代码 /src/sort-list.js](./src/sort-list.js)
