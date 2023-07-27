@@ -651,3 +651,7 @@
 - [148. 排序链表](https://leetcode.cn/problems/sort-list/)
 
 	[前往代码 /src/sort-list.js](./src/sort-list.js)
+
+- [231. 2 的幂](https://leetcode.cn/problems/power-of-two/)
+
+	[前往代码 /src/power-of-two.js](./src/power-of-two.js)
