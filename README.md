@@ -655,3 +655,15 @@
 - [231. 2 的幂](https://leetcode.cn/problems/power-of-two/)
 
 	[前往代码 /src/power-of-two.js](./src/power-of-two.js)
+
+- [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
+
+	[前往代码 /src/longest-substring-without-repeating-characters.js](./src/longest-substring-without-repeating-characters.js)
+
+- [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)
+
+	[前往代码 /src/add-two-numbers.js](./src/add-two-numbers.js)
+
+- [13. 罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)
+
+	[前往代码 /src/roman-to-integer.js](./src/roman-to-integer.js)
