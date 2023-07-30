@@ -667,3 +667,15 @@
 - [13. 罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)
 
 	[前往代码 /src/roman-to-integer.js](./src/roman-to-integer.js)
+
+- [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/)
+
+	[前往代码 /src/reverse-nodes-in-k-group.js](./src/reverse-nodes-in-k-group.js)
+
+- [704. 二分查找](https://leetcode.cn/problems/binary-search/)
+
+	[前往代码 /src/binary-search.js](./src/binary-search.js)
+
+- [96. 不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)
+
+	[前往代码 /src/unique-binary-search-trees.js](./src/unique-binary-search-trees.js)
