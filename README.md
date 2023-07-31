@@ -655,3 +655,11 @@
 - [231. 2 的幂](https://leetcode.cn/problems/power-of-two/)
 
 	[前往代码 /src/power-of-two.js](./src/power-of-two.js)
+
+- [143. 重排链表](https://leetcode.cn/problems/reorder-list/)
+
+	[前往代码 /src/reorder-list.js](./src/reorder-list.js)
+
+- [面试题 08.09. 括号](https://leetcode.cn/problems/bracket-lcci/)
+
+	[前往代码 /src/bracket-lcci.js](./src/bracket-lcci.js)
