@@ -691,3 +691,15 @@
 - [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
 	[前往代码 /src/remove-nth-node-from-end-of-list.js](./src/remove-nth-node-from-end-of-list.js)
+
+- [822. 翻转卡片游戏](https://leetcode.cn/problems/card-flipping-game/)
+
+	[前往代码 /src/card-flipping-game.js](./src/card-flipping-game.js)
+
+- [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/)
+
+	[前往代码 /src/pascals-triangle.js](./src/pascals-triangle.js)
+
+- [217. 存在重复元素](https://leetcode.cn/problems/contains-duplicate/)
+
+	[前往代码 /src/contains-duplicate.js](./src/contains-duplicate.js)
