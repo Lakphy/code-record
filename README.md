@@ -715,3 +715,7 @@
 - [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
 
 	[前往代码 /src/letter-combinations-of-a-phone-number.js](./src/letter-combinations-of-a-phone-number.js)
+
+- [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+	[前往代码 /src/lowest-common-ancestor-of-a-binary-tree.js](./src/lowest-common-ancestor-of-a-binary-tree.js)
