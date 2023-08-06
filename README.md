@@ -715,3 +715,19 @@
 - [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
 
 	[前往代码 /src/letter-combinations-of-a-phone-number.js](./src/letter-combinations-of-a-phone-number.js)
+
+- [980. 不同路径 III](https://leetcode.cn/problems/unique-paths-iii/)
+
+	[前往代码 /src/unique-paths-iii.js](./src/unique-paths-iii.js)
+
+- [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+
+	[前往代码 /src/swap-nodes-in-pairs.js](./src/swap-nodes-in-pairs.js)
+
+- [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)
+
+	[前往代码 /src/binary-tree-zigzag-level-order-traversal.js](./src/binary-tree-zigzag-level-order-traversal.js)
+
+- [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/)
+
+	[前往代码 /src/group-anagrams.js](./src/group-anagrams.js)
