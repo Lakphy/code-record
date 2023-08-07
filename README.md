@@ -735,3 +735,15 @@
 - [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
 
   [前往代码 /src/lowest-common-ancestor-of-a-binary-tree.js](./src/lowest-common-ancestor-of-a-binary-tree.js)
+
+- [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/)
+
+	[前往代码 /src/longest-common-subsequence.js](./src/longest-common-subsequence.js)
+
+- [221. 最大正方形](https://leetcode.cn/problems/maximal-square/)
+
+	[前往代码 /src/maximal-square.js](./src/maximal-square.js)
+
+- [394. 字符串解码](https://leetcode.cn/problems/decode-string/)
+
+	[前往代码 /src/decode-string.js](./src/decode-string.js)
