@@ -20,7 +20,7 @@ const leetcodecn = () => {
                 console.error(err)
             }
         })
-        fs.writeFile('README.md', content, opt, (err) => {
+        fs.writeFile('leetcode.md', content, opt, (err) => {
             if (err) {
                 console.error(err)
             }
