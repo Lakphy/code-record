@@ -741,3 +741,7 @@
 - [394. 字符串解码](https://leetcode.cn/problems/decode-string/)
 
   [前往代码 /src/decode-string.js](./src/decode-string.js)
+
+- [1281. 整数的各位积和之差](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+	[前往代码 /src/subtract-the-product-and-sum-of-digits-of-an-integer.js](./src/subtract-the-product-and-sum-of-digits-of-an-integer.js)
