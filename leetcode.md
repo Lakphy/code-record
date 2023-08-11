@@ -753,3 +753,7 @@
 - [1289. 下降路径最小和 II](https://leetcode.cn/problems/minimum-falling-path-sum-ii)
 
   [前往代码 /src/minimum-falling-path-sum-ii.js](./src/minimum-falling-path-sum-ii.js)
+
+- [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/description/)
+
+	[前往代码 /src/lru-cache.js](./src/lru-cache.js)
