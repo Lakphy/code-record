@@ -744,8 +744,12 @@
 
 - [1281. 整数的各位积和之差](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
-	[前往代码 /src/subtract-the-product-and-sum-of-digits-of-an-integer.js](./src/subtract-the-product-and-sum-of-digits-of-an-integer.js)
+  [前往代码 /src/subtract-the-product-and-sum-of-digits-of-an-integer.js](./src/subtract-the-product-and-sum-of-digits-of-an-integer.js)
 
 - [1572. 矩阵对角线元素的和](https://leetcode.cn/problems/matrix-diagonal-sum/)
 
-	[前往代码 /src/matrix-diagonal-sum.js](./src/matrix-diagonal-sum.js)
+  [前往代码 /src/matrix-diagonal-sum.js](./src/matrix-diagonal-sum.js)
+
+- [1289. 下降路径最小和 II](https://leetcode.cn/problems/minimum-falling-path-sum-ii)
+
+  [前往代码 /src/minimum-falling-path-sum-ii.js](./src/minimum-falling-path-sum-ii.js)
