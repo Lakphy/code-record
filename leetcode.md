@@ -745,3 +745,7 @@
 - [1281. 整数的各位积和之差](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 	[前往代码 /src/subtract-the-product-and-sum-of-digits-of-an-integer.js](./src/subtract-the-product-and-sum-of-digits-of-an-integer.js)
+
+- [1572. 矩阵对角线元素的和](https://leetcode.cn/problems/matrix-diagonal-sum/)
+
+	[前往代码 /src/matrix-diagonal-sum.js](./src/matrix-diagonal-sum.js)
