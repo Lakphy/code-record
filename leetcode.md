@@ -462,7 +462,7 @@
 
   [前往代码 /src/UhWRSj.js](./src/UhWRSj.js)
 
-- [剑指 Offer II 004. 只出现一次的数字 ](https://leetcode.cn/problems/WGki4K/)
+- [剑指 Offer II 004. 只出现一次的数字](https://leetcode.cn/problems/WGki4K/)
 
   [前往代码 /src/WGki4K.js](./src/WGki4K.js)
 
@@ -502,7 +502,7 @@
 
   [前往代码 /src/LGjMqU.js](./src/LGjMqU.js)
 
-- [剑指 Offer II 084. 含有重复元素集合的全排列 ](https://leetcode.cn/problems/7p8L0Z/)
+- [剑指 Offer II 084. 含有重复元素集合的全排列](https://leetcode.cn/problems/7p8L0Z/)
 
   [前往代码 /src/7p8L0Z.js](./src/7p8L0Z.js)
 
@@ -756,4 +756,4 @@
 
 - [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/description/)
 
-	[前往代码 /src/lru-cache.js](./src/lru-cache.js)
+  [前往代码 /src/lru-cache.js](./src/lru-cache.js)
