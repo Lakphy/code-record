@@ -757,3 +757,7 @@
 - [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/description/)
 
   [前往代码 /src/lru-cache.js](./src/lru-cache.js)
+
+- [23. 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/)
+
+	[前往代码 /src/merge-k-sorted-lists.js](./src/merge-k-sorted-lists.js)
