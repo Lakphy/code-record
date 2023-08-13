@@ -761,3 +761,7 @@
 - [23. 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/)
 
 	[前往代码 /src/merge-k-sorted-lists.js](./src/merge-k-sorted-lists.js)
+
+- [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/description/)
+
+	[前往代码 /src/merge-two-binary-trees.js](./src/merge-two-binary-trees.js)
