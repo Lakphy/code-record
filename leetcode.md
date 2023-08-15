@@ -765,3 +765,11 @@
 - [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/description/)
 
 	[前往代码 /src/merge-two-binary-trees.js](./src/merge-two-binary-trees.js)
+
+- [833. 字符串中的查找与替换](https://leetcode.cn/problems/find-and-replace-in-string/)
+
+	[前往代码 /src/find-and-replace-in-string.js](./src/find-and-replace-in-string.js)
+
+- [457. 环形数组是否存在循环](https://leetcode.cn/problems/circular-array-loop)
+
+	[前往代码 /src/circular-array-loop.js](./src/circular-array-loop.js)
