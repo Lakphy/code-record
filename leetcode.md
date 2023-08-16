@@ -773,3 +773,7 @@
 - [457. 环形数组是否存在循环](https://leetcode.cn/problems/circular-array-loop)
 
 	[前往代码 /src/circular-array-loop.js](./src/circular-array-loop.js)
+
+- [2682. 找出转圈游戏输家](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/)
+
+	[前往代码 /src/find-the-losers-of-the-circular-game.js](./src/find-the-losers-of-the-circular-game.js)
