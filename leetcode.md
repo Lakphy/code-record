@@ -777,3 +777,11 @@
 - [2682. 找出转圈游戏输家](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/)
 
 	[前往代码 /src/find-the-losers-of-the-circular-game.js](./src/find-the-losers-of-the-circular-game.js)
+
+- [559. N 叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/)
+
+	[前往代码 /src/maximum-depth-of-n-ary-tree.js](./src/maximum-depth-of-n-ary-tree.js)
+
+- [LCR 062. 实现 Trie (前缀树)](https://leetcode.cn/problems/QC3q1f)
+
+	[前往代码 /src/QC3q1f.js](./src/QC3q1f.js)
