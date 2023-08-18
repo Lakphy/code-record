@@ -777,3 +777,7 @@
 - [2682. 找出转圈游戏输家](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/)
 
 	[前往代码 /src/find-the-losers-of-the-circular-game.js](./src/find-the-losers-of-the-circular-game.js)
+
+- [1388. 3n 块披萨](https://leetcode.cn/problems/pizza-with-3n-slices/)
+
+	[前往代码 /src/pizza-with-3n-slices.js](./src/pizza-with-3n-slices.js)
