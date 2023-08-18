@@ -789,3 +789,7 @@
 - [LCR 062. 实现 Trie (前缀树)](https://leetcode.cn/problems/QC3q1f)
 
   [前往代码 /src/QC3q1f.js](./src/QC3q1f.js)
+
+- [2235. 两整数相加](https://leetcode.cn/problems/add-two-integers/)
+
+	[前往代码 /src/add-two-integers.js](./src/add-two-integers.js)
