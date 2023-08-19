@@ -793,3 +793,7 @@
 - [2235. 两整数相加](https://leetcode.cn/problems/add-two-integers/)
 
 	[前往代码 /src/add-two-integers.js](./src/add-two-integers.js)
+
+- [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element)
+
+	[前往代码 /src/find-peak-element.js](./src/find-peak-element.js)
