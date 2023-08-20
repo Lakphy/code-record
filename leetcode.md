@@ -797,3 +797,7 @@
 - [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element)
 
 	[前往代码 /src/find-peak-element.js](./src/find-peak-element.js)
+
+- [1480. 一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)
+
+	[前往代码 /src/running-sum-of-1d-array.js](./src/running-sum-of-1d-array.js)
