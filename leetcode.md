@@ -801,3 +801,7 @@
 - [1480. 一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)
 
 	[前往代码 /src/running-sum-of-1d-array.js](./src/running-sum-of-1d-array.js)
+
+- [2337. 移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/description/)
+
+	[前往代码 /src/move-pieces-to-obtain-a-string.js](./src/move-pieces-to-obtain-a-string.js)
