@@ -809,3 +809,7 @@
 - [27. 移除元素](https://leetcode.cn/problems/remove-element)
 
 	[前往代码 /src/remove-element.js](./src/remove-element.js)
+
+- [849. 到最近的人的最大距离](https://leetcode.cn/problems/maximize-distance-to-closest-person)
+
+	[前往代码 /src/maximize-distance-to-closest-person.js](./src/maximize-distance-to-closest-person.js)
