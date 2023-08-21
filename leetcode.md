@@ -805,3 +805,7 @@
 - [2337. 移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/description/)
 
 	[前往代码 /src/move-pieces-to-obtain-a-string.js](./src/move-pieces-to-obtain-a-string.js)
+
+- [27. 移除元素](https://leetcode.cn/problems/remove-element)
+
+	[前往代码 /src/remove-element.js](./src/remove-element.js)
