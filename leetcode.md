@@ -792,24 +792,28 @@
 
 - [2235. 两整数相加](https://leetcode.cn/problems/add-two-integers/)
 
-	[前往代码 /src/add-two-integers.js](./src/add-two-integers.js)
+  [前往代码 /src/add-two-integers.js](./src/add-two-integers.js)
 
 - [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element)
 
-	[前往代码 /src/find-peak-element.js](./src/find-peak-element.js)
+  [前往代码 /src/find-peak-element.js](./src/find-peak-element.js)
 
 - [1480. 一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)
 
-	[前往代码 /src/running-sum-of-1d-array.js](./src/running-sum-of-1d-array.js)
+  [前往代码 /src/running-sum-of-1d-array.js](./src/running-sum-of-1d-array.js)
 
 - [2337. 移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/description/)
 
-	[前往代码 /src/move-pieces-to-obtain-a-string.js](./src/move-pieces-to-obtain-a-string.js)
+  [前往代码 /src/move-pieces-to-obtain-a-string.js](./src/move-pieces-to-obtain-a-string.js)
 
 - [27. 移除元素](https://leetcode.cn/problems/remove-element)
 
-	[前往代码 /src/remove-element.js](./src/remove-element.js)
+  [前往代码 /src/remove-element.js](./src/remove-element.js)
 
 - [1448. 统计二叉树中好节点的数目](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/)
 
-	[前往代码 /src/count-good-nodes-in-binary-tree.js](./src/count-good-nodes-in-binary-tree.js)
+  [前往代码 /src/count-good-nodes-in-binary-tree.js](./src/count-good-nodes-in-binary-tree.js)
+
+- [849. 到最近的人的最大距离](https://leetcode.cn/problems/maximize-distance-to-closest-person)
+
+  [前往代码 /src/maximize-distance-to-closest-person.js](./src/maximize-distance-to-closest-person.js)
