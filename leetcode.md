@@ -809,3 +809,7 @@
 - [27. 移除元素](https://leetcode.cn/problems/remove-element)
 
 	[前往代码 /src/remove-element.js](./src/remove-element.js)
+
+- [1448. 统计二叉树中好节点的数目](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/)
+
+	[前往代码 /src/count-good-nodes-in-binary-tree.js](./src/count-good-nodes-in-binary-tree.js)
