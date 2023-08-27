@@ -817,3 +817,7 @@
 - [849. 到最近的人的最大距离](https://leetcode.cn/problems/maximize-distance-to-closest-person)
 
   [前往代码 /src/maximize-distance-to-closest-person.js](./src/maximize-distance-to-closest-person.js)
+
+- [228. 汇总区间](https://leetcode.cn/problems/summary-ranges/)
+
+	[前往代码 /src/summary-ranges.js](./src/summary-ranges.js)
