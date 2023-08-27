@@ -821,3 +821,7 @@
 - [228. 汇总区间](https://leetcode.cn/problems/summary-ranges/)
 
 	[前往代码 /src/summary-ranges.js](./src/summary-ranges.js)
+
+- [56. 合并区间](https://leetcode.cn/problems/merge-intervals/)
+
+	[前往代码 /src/merge-intervals.js](./src/merge-intervals.js)
