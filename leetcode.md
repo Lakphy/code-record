@@ -825,3 +825,7 @@
 - [56. 合并区间](https://leetcode.cn/problems/merge-intervals/)
 
 	[前往代码 /src/merge-intervals.js](./src/merge-intervals.js)
+
+- [57. 插入区间](https://leetcode.cn/problems/insert-interval/)
+
+	[前往代码 /src/insert-interval.js](./src/insert-interval.js)
