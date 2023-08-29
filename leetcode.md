@@ -829,3 +829,7 @@
 - [57. 插入区间](https://leetcode.cn/problems/insert-interval/)
 
 	[前往代码 /src/insert-interval.js](./src/insert-interval.js)
+
+- [823. 带因子的二叉树](https://leetcode.cn/problems/binary-trees-with-factors/)
+
+	[前往代码 /src/binary-trees-with-factors.js](./src/binary-trees-with-factors.js)
