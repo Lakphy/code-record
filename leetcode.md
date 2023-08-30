@@ -833,3 +833,7 @@
 - [823. 带因子的二叉树](https://leetcode.cn/problems/binary-trees-with-factors/)
 
 	[前往代码 /src/binary-trees-with-factors.js](./src/binary-trees-with-factors.js)
+
+- [1654. 到家的最少跳跃次数](https://leetcode.cn/problems/minimum-jumps-to-reach-home/)
+
+	[前往代码 /src/minimum-jumps-to-reach-home.js](./src/minimum-jumps-to-reach-home.js)
