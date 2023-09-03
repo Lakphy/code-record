@@ -837,3 +837,7 @@
 - [1654. 到家的最少跳跃次数](https://leetcode.cn/problems/minimum-jumps-to-reach-home/)
 
 	[前往代码 /src/minimum-jumps-to-reach-home.js](./src/minimum-jumps-to-reach-home.js)
+
+- [1921. 消灭怪物的最大数量](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters)
+
+	[前往代码 /src/eliminate-maximum-number-of-monsters.js](./src/eliminate-maximum-number-of-monsters.js)
