@@ -849,3 +849,15 @@
 - [901. 股票价格跨度](https://leetcode.cn/problems/online-stock-span/)
 
 	[前往代码 /src/online-stock-span.js](./src/online-stock-span.js)
+
+- [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
+
+	[前往代码 /src/binary-tree-inorder-traversal.js](./src/binary-tree-inorder-traversal.js)
+
+- [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome)
+
+	[前往代码 /src/valid-palindrome.js](./src/valid-palindrome.js)
+
+- [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii)
+
+	[前往代码 /src/contains-duplicate-ii.js](./src/contains-duplicate-ii.js)
