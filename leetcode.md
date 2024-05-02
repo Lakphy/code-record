@@ -861,3 +861,15 @@
 - [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii)
 
 	[前往代码 /src/contains-duplicate-ii.js](./src/contains-duplicate-ii.js)
+
+- [387. 字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string)
+
+	[前往代码 /src/first-unique-character-in-a-string.js](./src/first-unique-character-in-a-string.js)
+
+- [933. 最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls)
+
+	[前往代码 /src/number-of-recent-calls.js](./src/number-of-recent-calls.js)
+
+- [100. 相同的树](https://leetcode.cn/problems/same-tree)
+
+	[前往代码 /src/same-tree.js](./src/same-tree.js)
