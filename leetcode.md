@@ -873,3 +873,11 @@
 - [100. 相同的树](https://leetcode.cn/problems/same-tree)
 
 	[前往代码 /src/same-tree.js](./src/same-tree.js)
+
+- [1491. 去掉最低工资和最高工资后的工资平均值](https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary)
+
+	[前往代码 /src/average-salary-excluding-the-minimum-and-maximum-salary.js](./src/average-salary-excluding-the-minimum-and-maximum-salary.js)
+
+- [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays)
+
+	[前往代码 /src/intersection-of-two-arrays.js](./src/intersection-of-two-arrays.js)
