@@ -881,3 +881,11 @@
 - [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays)
 
 	[前往代码 /src/intersection-of-two-arrays.js](./src/intersection-of-two-arrays.js)
+
+- [402. 移掉 K 位数字](https://leetcode.cn/problems/remove-k-digits)
+
+	[前往代码 /src/remove-k-digits.js](./src/remove-k-digits.js)
+
+- [189. 轮转数组](https://leetcode.cn/problems/rotate-array)
+
+	[前往代码 /src/rotate-array.js](./src/rotate-array.js)
