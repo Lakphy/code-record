@@ -889,3 +889,7 @@
 - [189. 轮转数组](https://leetcode.cn/problems/rotate-array)
 
 	[前往代码 /src/rotate-array.js](./src/rotate-array.js)
+
+- [2566. 替换一个数字后的最大差值](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit)
+
+	[前往代码 /src/maximum-difference-by-remapping-a-digit.js](./src/maximum-difference-by-remapping-a-digit.js)
