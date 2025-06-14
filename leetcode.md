@@ -893,3 +893,7 @@
 - [2566. 替换一个数字后的最大差值](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit)
 
 	[前往代码 /src/maximum-difference-by-remapping-a-digit.js](./src/maximum-difference-by-remapping-a-digit.js)
+
+- [1432. 改变一个整数能得到的最大差值](https://leetcode.cn/problems/max-difference-you-can-get-from-changing-an-integer)
+
+	[前往代码 /src/max-difference-you-can-get-from-changing-an-integer.js](./src/max-difference-you-can-get-from-changing-an-integer.js)
