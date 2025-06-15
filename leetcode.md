@@ -897,3 +897,11 @@
 - [1432. 改变一个整数能得到的最大差值](https://leetcode.cn/problems/max-difference-you-can-get-from-changing-an-integer)
 
 	[前往代码 /src/max-difference-you-can-get-from-changing-an-integer.js](./src/max-difference-you-can-get-from-changing-an-integer.js)
+
+- [2016. 增量元素之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-increasing-elements)
+
+	[前往代码 /src/maximum-difference-between-increasing-elements.js](./src/maximum-difference-between-increasing-elements.js)
+
+- [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list)
+
+	[前往代码 /src/palindrome-linked-list.js](./src/palindrome-linked-list.js)
