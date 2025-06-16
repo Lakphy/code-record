@@ -905,3 +905,7 @@
 - [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list)
 
 	[前往代码 /src/palindrome-linked-list.js](./src/palindrome-linked-list.js)
+
+- [3405. 统计恰好有 K 个相等相邻元素的数组数目](https://leetcode.cn/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements)
+
+	[前往代码 /src/count-the-number-of-arrays-with-k-matching-adjacent-elements.js](./src/count-the-number-of-arrays-with-k-matching-adjacent-elements.js)
