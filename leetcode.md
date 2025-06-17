@@ -909,3 +909,7 @@
 - [3405. 统计恰好有 K 个相等相邻元素的数组数目](https://leetcode.cn/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements)
 
 	[前往代码 /src/count-the-number-of-arrays-with-k-matching-adjacent-elements.js](./src/count-the-number-of-arrays-with-k-matching-adjacent-elements.js)
+
+- [2966. 划分数组并满足最大差限制](https://leetcode.cn/problems/divide-array-into-arrays-with-max-difference)
+
+	[前往代码 /src/divide-array-into-arrays-with-max-difference.js](./src/divide-array-into-arrays-with-max-difference.js)
