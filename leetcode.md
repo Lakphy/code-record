@@ -917,3 +917,7 @@
 - [2294. 划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k)
 
 	[前往代码 /src/partition-array-such-that-maximum-difference-is-k.js](./src/partition-array-such-that-maximum-difference-is-k.js)
+
+- [3443. K 次修改后的最大曼哈顿距离](https://leetcode.cn/problems/maximum-manhattan-distance-after-k-changes)
+
+	[前往代码 /src/maximum-manhattan-distance-after-k-changes.js](./src/maximum-manhattan-distance-after-k-changes.js)
