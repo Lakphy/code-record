@@ -913,3 +913,7 @@
 - [2966. 划分数组并满足最大差限制](https://leetcode.cn/problems/divide-array-into-arrays-with-max-difference)
 
 	[前往代码 /src/divide-array-into-arrays-with-max-difference.js](./src/divide-array-into-arrays-with-max-difference.js)
+
+- [2294. 划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k)
+
+	[前往代码 /src/partition-array-such-that-maximum-difference-is-k.js](./src/partition-array-such-that-maximum-difference-is-k.js)
