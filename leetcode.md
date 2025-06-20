@@ -921,3 +921,7 @@
 - [3443. K 次修改后的最大曼哈顿距离](https://leetcode.cn/problems/maximum-manhattan-distance-after-k-changes)
 
 	[前往代码 /src/maximum-manhattan-distance-after-k-changes.js](./src/maximum-manhattan-distance-after-k-changes.js)
+
+- [3085. 成为 K 特殊字符串需要删除的最少字符数](https://leetcode.cn/problems/minimum-deletions-to-make-string-k-special)
+
+	[前往代码 /src/minimum-deletions-to-make-string-k-special.js](./src/minimum-deletions-to-make-string-k-special.js)
