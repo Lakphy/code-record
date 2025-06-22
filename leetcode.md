@@ -925,3 +925,15 @@
 - [3085. 成为 K 特殊字符串需要删除的最少字符数](https://leetcode.cn/problems/minimum-deletions-to-make-string-k-special)
 
 	[前往代码 /src/minimum-deletions-to-make-string-k-special.js](./src/minimum-deletions-to-make-string-k-special.js)
+
+- [2138. 将字符串拆分为若干长度为 k 的组](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k)
+
+	[前往代码 /src/divide-a-string-into-groups-of-size-k.js](./src/divide-a-string-into-groups-of-size-k.js)
+
+- [80. 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii)
+
+	[前往代码 /src/remove-duplicates-from-sorted-array-ii.js](./src/remove-duplicates-from-sorted-array-ii.js)
+
+- [169. 多数元素](https://leetcode.cn/problems/majority-element)
+
+	[前往代码 /src/majority-element.js](./src/majority-element.js)
