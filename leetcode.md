@@ -941,3 +941,11 @@
 - [55. 跳跃游戏](https://leetcode.cn/problems/jump-game)
 
 	[前往代码 /src/jump-game.js](./src/jump-game.js)
+
+- [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii)
+
+	[前往代码 /src/jump-game-ii.js](./src/jump-game-ii.js)
+
+- [2200. 找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array)
+
+	[前往代码 /src/find-all-k-distant-indices-in-an-array.js](./src/find-all-k-distant-indices-in-an-array.js)
