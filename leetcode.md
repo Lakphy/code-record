@@ -937,3 +937,7 @@
 - [169. 多数元素](https://leetcode.cn/problems/majority-element)
 
 	[前往代码 /src/majority-element.js](./src/majority-element.js)
+
+- [55. 跳跃游戏](https://leetcode.cn/problems/jump-game)
+
+	[前往代码 /src/jump-game.js](./src/jump-game.js)
